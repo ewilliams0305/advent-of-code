@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Historian_Hysteria", "day1\Historian_Hysteria\Historian_Hysteria.fsproj", "{BD4EA2C3-5998-4109-9F14-C2313C826F28}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "day1", "day1", "{9939EF69-11DD-42E7-B967-61D7A8A46ADE}"
+	ProjectSection(SolutionItems) = preProject
+		day1\input_data = day1\input_data
+		day1\README.md = day1\README.md
+	EndProjectSection
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Historian_Hysteria_Tests", "day1\Historian_Hysteria_Tests\Historian_Hysteria_Tests.fsproj", "{C852EA25-D405-4C5A-9541-AFCC3DE41D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD4EA2C3-5998-4109-9F14-C2313C826F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4EA2C3-5998-4109-9F14-C2313C826F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4EA2C3-5998-4109-9F14-C2313C826F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4EA2C3-5998-4109-9F14-C2313C826F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C852EA25-D405-4C5A-9541-AFCC3DE41D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C852EA25-D405-4C5A-9541-AFCC3DE41D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C852EA25-D405-4C5A-9541-AFCC3DE41D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C852EA25-D405-4C5A-9541-AFCC3DE41D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BD4EA2C3-5998-4109-9F14-C2313C826F28} = {9939EF69-11DD-42E7-B967-61D7A8A46ADE}
+		{C852EA25-D405-4C5A-9541-AFCC3DE41D34} = {9939EF69-11DD-42E7-B967-61D7A8A46ADE}
+	EndGlobalSection
+EndGlobal
