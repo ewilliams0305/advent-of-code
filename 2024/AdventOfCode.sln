@@ -10,6 +10,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "day1", "day1", "{9939EF69-1
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Historian_Hysteria_Tests", "day1\Historian_Hysteria_Tests\Historian_Hysteria_Tests.fsproj", "{C852EA25-D405-4C5A-9541-AFCC3DE41D34}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "day2", "day2", "{B4D8432C-EADA-452C-AC08-349B1F9FCE2A}"
+	ProjectSection(SolutionItems) = preProject
+		day2\RedNoseReports_Part1.fsx = day2\RedNoseReports_Part1.fsx
+		day2\RedNoseReports_Part2.fsx = day2\RedNoseReports_Part2.fsx
+		day2\RedNoseReports_Part1 copy.fsx = day2\RedNoseReports_Part1 copy.fsx
+		day2\RedNoseReports_Part1 copy 2.fsx = day2\RedNoseReports_Part1 copy 2.fsx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
